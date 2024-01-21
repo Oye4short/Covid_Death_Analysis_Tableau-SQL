@@ -1,0 +1,7 @@
+A simple dashboard with updated information(December 2023) on Covid. The graph also shows a forecast of percent on population infected and goes till October 2024.
+
+Check out the ReadMe section for more details! *including link to Functional Tableau File*
+
+
+
+
