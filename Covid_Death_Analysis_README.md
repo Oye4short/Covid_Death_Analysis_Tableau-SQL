@@ -10,7 +10,7 @@ This Tableau dashboard seamlessly integrates current data, providing valuable in
 
 
 For full functionality checkout [Tableau Dashboard](https://public.tableau.com/app/profile/oyewole.ogunbamise/viz/CovidDashboardbytheNumbers/CovidDashboardbytheNumbers)<br>
-Source of Data: [OUrWorldinData](https://ourworldindata.org/covid-deaths)
+Source of Data: [OurWorldinData](https://ourworldindata.org/covid-deaths)
 
 For more insight on how data was broken down using SQL check out this link: https://github.com/Oye4short/PortfolioProjects/blob/main/SQL%20project%20Covid.sql
 
