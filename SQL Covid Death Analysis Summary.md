@@ -1,4 +1,4 @@
-# SQL Covid Death Analysis Summary 
+# SQL Covid Death Analysis Summary.
 The SQL code conducts data exploration on Covid deaths, utilizing a database named NewPortfolioProject([Data Set](https://ourworldindata.org/covid-deaths)). The code comprises several queries focusing on different aspects of Covid-related data analysis.<br><br>
 **1.	Selecting Initial Data:** The initial query retrieves all columns from the Covid_Deaths table where the continent is not null, ordering the results by the third and fourth columns.<br><br>
 **2.	Basic Covid Statistics:** The second query selects specific columns (Location, date, total_cases, new_cases, total_deaths, population) from Covid_Deaths, filtering records where the continent is not null and ordering by location and date.<br><br>
