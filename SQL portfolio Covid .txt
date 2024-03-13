@@ -1,6 +1,6 @@
 Data set from https://ourworldindata.org/covid-deaths
 
-/*SQL DATA EXPLORATION : Covid Deaths*/
+/*SQL -DATA EXPLORATION : Covid Deaths*/
 -- Note: always ensure the data is in a proper format for analysis. 
 -- Column data type is very important if mathematical analysis is going -- to be done.
 
