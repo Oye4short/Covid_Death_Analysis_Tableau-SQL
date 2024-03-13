@@ -1,4 +1,4 @@
-A simple dashboard with updated information(December 2023) on Covid. The graph also shows a forecast of percent on population infected and goes till October 2024.
+-A simple dashboard with updated information(December 2023) on Covid. The graph also shows a forecast of percent on population infected and goes till October 2024.
 
 <img width="683" alt="Tableau Covid Dashboard (Desktop View)" src="https://github.com/Oye4short/PortfolioProjects/assets/134823831/8e1edbb6-b70e-41e9-9583-795b023cded0">
 
